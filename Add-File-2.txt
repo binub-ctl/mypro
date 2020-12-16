@@ -1,3 +1,5 @@
 making changes to commit and validate
 Change Dec 16th
+Create merge conflict and resolve
 Check how to resolve merge conflict
+
