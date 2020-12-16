@@ -1,2 +1,3 @@
 making changes to commit and validate
 Change Dec 16th
+Check how to resolve merge conflict
