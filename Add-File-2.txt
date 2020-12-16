@@ -4,7 +4,10 @@ Create merge conflict and resolve
 Check how to resolve merge conflict
 
 testing github desktop
+1.Create a new branch , make changes and merge
+2.will create conflict
 
 1.try again & again
+1.this will let's try this now - try again
 2.will use desktop toll to merge conflict
 
