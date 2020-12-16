@@ -5,6 +5,6 @@ Check how to resolve merge conflict
 
 testing github desktop
 
-1.this will create a conflict
+1.this will create a conflict-let's try this now
 2.will use desktop toll to merge conflict
 
