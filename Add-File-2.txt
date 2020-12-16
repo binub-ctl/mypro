@@ -7,6 +7,6 @@ testing github desktop
 1.Create a new branch , make changes and merge
 2.will create conflict
 
-1.this will create a conflict-let's try this now
+1.this will let's try this now
 2.will use desktop toll to merge conflict
 
